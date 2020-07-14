@@ -5,4 +5,4 @@ second_number = 5
 
 sum = first_number + second_number
 
-difference = 
+difference = first_number - second_number
